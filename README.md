@@ -105,6 +105,6 @@ The system will:
 
 ## 📄 Reference
 
-[OOAIA_L2.pdf](https://github.com/user-attachments/files/21109682/OOAIA_L2.pdf)
+[Library Management system](https://github.com/user-attachments/files/21109682/OOAIA_L2.pdf)
 
 ---
